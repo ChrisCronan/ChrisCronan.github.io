@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Chris Cronan">
+  <rect width="32" height="32" fill="#010717"/>
+  <circle cx="16" cy="16" r="10.25" fill="none" stroke="#C9A227" stroke-width="1.15"/>
+  <path fill="#C9A227" d="M16 4.2 18.05 13.95 27.8 16 18.05 18.05 16 27.8 13.95 18.05 4.2 16 13.95 13.95 Z"/>
+</svg>
