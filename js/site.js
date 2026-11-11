@@ -65,7 +65,7 @@
           setStatus(
             form,
             "error",
-            "Something went wrong. Please try again, or email Chris@chriscronan.com."
+            "Something went wrong. Please try again, or email chris@chriscronan.com."
           );
         })
         .finally(function () {
@@ -118,7 +118,7 @@
             return null;
           }).then(function (data) {
             var message =
-              "Something went wrong. Please try again, or email Chris@chriscronan.com.";
+              "Something went wrong. Please try again, or email chris@chriscronan.com.";
             if (data && data.errors && data.errors.length) {
               var fromApi = data.errors
                 .map(function (err) {
@@ -135,7 +135,7 @@
           setStatus(
             form,
             "error",
-            "Something went wrong. Please try again, or email Chris@chriscronan.com."
+            "Something went wrong. Please try again, or email chris@chriscronan.com."
           );
         })
         .finally(function () {
